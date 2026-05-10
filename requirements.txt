@@ -1,0 +1,15 @@
+numpy==1.26.4
+opencv-python==4.8.1.78
+pycocotools
+tifffile
+Pillow
+tqdm
+matplotlib
+terminaltables
+yapf
+addict
+rich
+termcolor
+setuptools==69.5.1
+wheel==0.43.0
+packaging==24.2

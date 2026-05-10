@@ -1,0 +1,27 @@
+# data
+train/
+test_release/
+coco_cell/
+nycu-hw3-data/
+
+# checkpoints and outputs
+work_dirs/
+*.pth
+*.pt
+*.ckpt
+submission.zip
+test-results.json
+
+# cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# environment
+/content/
+.conda/
+.env
+
+# logs
+*.log
+events.out.tfevents*
